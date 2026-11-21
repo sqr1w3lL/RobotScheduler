@@ -1,0 +1,5 @@
+﻿  Lb4.1.cpp
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Lb4.1\Lb4.1.cpp(12,44): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Lb4.1\Lb4.1.cpp(12,44): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Lb4.1\Lb4.1.cpp(12,44): error C2059: синтаксическая ошибка: )
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Lb4.1\Lb4.1.cpp(12,55): error C2059: синтаксическая ошибка: )
